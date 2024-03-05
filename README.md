@@ -28,7 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ```git
-git clone https://github.com/Egbele-kelvin/Note-Taking-App
+git clone https://github.com/Egbele-kelvin/Note-Taking-App.git
 
 ```
 
